@@ -1,5 +1,5 @@
 这个是关于我写的多线程系列文章的完整代码
-个人博客主页： http://www.douzha.cn
+个人博客主页： http://www.douzhq.cn
 
 1. [线程的创建和基本使用](https://www.douzhq.cn/thread_create/)
 2. [使用Qt中的QThread创建线程](https://www.douzhq.cn/thread_qthread/)
