@@ -1,5 +1,5 @@
 这个是关于我写的多线程系列文章的完整代码 </br>
-个人博客主页： http://www.douzhq.cn </br>
+个人博客主页： [不会飞的纸飞机](http://www.douzhq.cn) </br>
 微信公众号：不会飞的纸飞机   （利用片段时间看技术、找乐子）</br>
 
 1. [线程的创建和基本使用](http://www.douzhq.cn/thread_create/)
