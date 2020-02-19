@@ -11,4 +11,7 @@
 4. [线程的互斥和同步（1）- 原子操作与自旋锁](http://www.douzhq.cn/thread_atomic/)
 
 5. [线程的互斥和同步（2）- Windows的临界区](http://www.douzhq.cn/thread_criticalsection/)
+6. [线程的互斥和同步（3）- Windows的互斥锁](http://www.douzhq.cn/thread_winmutex/)
+7. [线程的互斥和同步（4）- Qt中的互斥锁（QMutex和QMutexLocker](http://www.douzhq.cn/thread_qtmutex/)
+8. [线程的互斥和同步（5）- Windows的信号量Semaphore](http://www.douzhq.cn/thread_semaphore/)
 
